@@ -1,5 +1,5 @@
 
-Musync(Android-Java)
+# Musync(Android-Java)
 (Sept 2018- July 2019)
 
 • Developed a music Sharing Android Application that allows Friends to sync music and share music seamlessly.
